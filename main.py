@@ -6,4 +6,4 @@ app = FastAPI()
 # Define a route
 @app.get("/")
 def read_root():
-    return "My changeg the Code."
+    return "I changed the Code."
